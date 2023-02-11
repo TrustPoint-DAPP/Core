@@ -1,9 +1,9 @@
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com-personal:TrustPoint-DAPP/Frontend.git
+	url = git@github.com:TrustPoint-DAPP/Frontend.git
 [submodule "backend"]
 	path = backend
-	url = git@github.com-personal:TrustPoint-DAPP/Backend.git
+	url = git@github.com:TrustPoint-DAPP/Backend.git
 [submodule "smart_contracts"]
 	path = smart_contracts
-	url = git@github.com-personal:TrustPoint-DAPP/Smart-Contract.git
+	url = git@github.com:TrustPoint-DAPP/Smart-Contract.git
